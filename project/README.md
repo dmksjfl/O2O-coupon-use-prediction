@@ -1,0 +1,1 @@
+This file contains our project python code. It mainly has feature_extract.py, model.py and GCForest.py. One should run feature_extract.py first to get the training set and test set after PCA. Then one should run model.py to get the training result.
