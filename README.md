@@ -5,3 +5,5 @@ We get a score of 0.6377 with pure offline dataset.
 
 # Scores in Tianchi
 We hand in our result many times and the best score we get is 0.6377 and you can find it via the following picture.
+
+![The scores we get in Tianchi](https://github.com/dmksjfl/O2O-coupon-use-prediction/blob/master/bestscore.png)
