@@ -2,4 +2,4 @@ This file contains saved model like regression tree, random forest, xgboost, lig
 
 Tree models like regression tree, random forest are saved with pickle. XGBoost and LightGBM has own attributes that could save models.
 
-One could run model_result.py in this file to get the result directly.
+One could run result.py in this file to get the result directly.
